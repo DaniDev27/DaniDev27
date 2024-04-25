@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DaniDev27
 - 🌱 I’m currently learning coding from scratch so I'll try to take this step by step
+- 💻 I'm interested in Python, HTML, CSS, JavaScript and Node.js at the moment, but always open to learn something else.
 - 📫 You can contact me through here, or via email
-- 😄 Pronouns: Dev
+- 😄 Pronouns: Dev 🧑‍💻
 - ⚡ Fun fact: Did you know that otters sleep holding hands so they don't get lost floating?
 
 <!---
